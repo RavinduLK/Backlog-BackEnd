@@ -39,6 +39,13 @@ Dive into the codebase to elevate your project management experience!
 
 [Demonstration Video](https://dms.uom.lk/s/cnLbHp5tC5ER4ZL)
 
+## Screenshots - Database and Backend
+
+![Screenshot 11](https://github.com/RavinduLK/Backlog-BackEnd/blob/68130354e3d944df340df7443890f47301b51117/Backlog(BE)-Images/Screenshot%202023-10-14%20102615.png)<br><br>
+![Screenshot 12](https://github.com/RavinduLK/Backlog-BackEnd/blob/68130354e3d944df340df7443890f47301b51117/Backlog(BE)-Images/Screenshot%202023-10-14%20102641.png)<br><br>
+![Screenshot 13](https://github.com/RavinduLK/Backlog-BackEnd/blob/68130354e3d944df340df7443890f47301b51117/Backlog(BE)-Images/Screenshot%202023-10-14%20102554.png)<br><br>
+![Screenshot 14](https://github.com/RavinduLK/Backlog-BackEnd/blob/68130354e3d944df340df7443890f47301b51117/Backlog(BE)-Images/Screenshot%202023-10-14%20102832.png)
+
 ## Screenshots - User Interfaces
 
 ![Screenshot 1](https://github.com/RavinduLK/Backlog-FrontEnd/blob/91d33ab28009f3fcd10406ea34b945fa1c97b71b/Backlog%20UIs'/Screenshot%202023-10-11%20133518.png)<br><br>
@@ -51,10 +58,3 @@ Dive into the codebase to elevate your project management experience!
 ![Screenshot 7](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133357.png)<br><br>
 ![Screenshot 8](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133313.png)<br><br>
 ![Screenshot 9](https://github.com/RavinduLK/Backlog-FrontEnd/blob/37fc67f9c7bbe84a0cc760ec757db1747293aeea/Backlog%20UIs'/Screenshot%202023-10-11%20133417.png)<br><br>
-
-## Screenshots - Database and Backend
-
-![Screenshot 11](https://github.com/RavinduLK/Backlog-BackEnd/blob/68130354e3d944df340df7443890f47301b51117/Backlog(BE)-Images/Screenshot%202023-10-14%20102615.png)<br><br>
-![Screenshot 12](https://github.com/RavinduLK/Backlog-BackEnd/blob/68130354e3d944df340df7443890f47301b51117/Backlog(BE)-Images/Screenshot%202023-10-14%20102641.png)<br><br>
-![Screenshot 13](https://github.com/RavinduLK/Backlog-BackEnd/blob/68130354e3d944df340df7443890f47301b51117/Backlog(BE)-Images/Screenshot%202023-10-14%20102554.png)<br><br>
-![Screenshot 14](https://github.com/RavinduLK/Backlog-BackEnd/blob/68130354e3d944df340df7443890f47301b51117/Backlog(BE)-Images/Screenshot%202023-10-14%20102832.png)
